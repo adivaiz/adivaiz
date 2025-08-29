@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Adi  
 
-<!--
-**adivaiz/adivaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** – SCE  
+⚙️ Passionate about **Backend & Cloud Development** 
+🎮 Exploring **Game Development** 
+🐍 Skilled in **Python, Django, Node.js, SQL**  
+☁️ Hands-on with **AWS, Docker, Kubernetes**  
+💡 Always curious, always learning, always building!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Work With  
+- **Languages**: Python, JavaScript, C, C++, Java, SQL  
+- **Frameworks**: Django, Node.js,  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Cloud & DevOps**: AWS, Docker, Kubernetes 
+- **Version Control**: Git, GitHub  
+
+---
+ 
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/adi-vaizman-559063259)  
+- [Email](mailto:adivaizm@gmail.com) 
+
+---
+
+✨ *Check out my pinned repositories below to see my projects!*  
