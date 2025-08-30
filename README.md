@@ -10,7 +10,7 @@
 ---
 
 ## 🔧 Technologies I Work With  
-- **Languages**: Python, JavaScript, C, C++, Java, SQL  
+- **Languages**: Python, JavaScript, C,C#, C++, Java, SQL  
 - **Frameworks**: Django, Node.js,  
 - **Databases**: PostgreSQL, MySQL, SQLite  
 - **Cloud & DevOps**: AWS, Docker, Kubernetes 
