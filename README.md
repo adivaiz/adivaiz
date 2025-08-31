@@ -11,16 +11,17 @@
 
 ## 🔧 Technologies I Work With  
 - **Languages**: Python, JavaScript, C, C#, C++, Java, SQL  
-- **Frameworks**: Django, Node.js,  
+- **Frameworks**: Django, Node.js  
 - **Databases**: PostgreSQL, MySQL, SQLite  
-- **Cloud & DevOps**: AWS, Docker, Kubernetes 
-- **Version Control**: Git, GitHub  
+- **Cloud & DevOps**: AWS, Docker, Kubernetes  
+- **Game Engines**: Unity  
+- **Version Control**: Git, GitHub   
 
 ---
  
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/adi-vaizman-559063259)  
-- [Email](mailto:adivaizm@gmail.com) 
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=adivaizm@gmail.com)  
 
 ---
 
